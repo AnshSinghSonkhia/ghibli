@@ -32,6 +32,8 @@
   },
   "homepage": "https://github.com/AnshSinghSonkhia/ghibli#readme",
   "dependencies": {
-    "jimp": "^0.16.1"
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1",
+    "onnxruntime-node": "^1.21.0"
   }
 }
