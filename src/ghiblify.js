@@ -1,6 +1,6 @@
 const Jimp = require("jimp");
 
-async function ghibliify(inputPath, outputPath) {
+async function ghiblify(inputPath, outputPath) {
   try {
     const image = await Jimp.read(inputPath);
 
@@ -18,4 +18,4 @@ async function ghibliify(inputPath, outputPath) {
   }
 }
 
-module.exports = ghibliify;
+module.exports = ghiblify;

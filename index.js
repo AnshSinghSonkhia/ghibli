@@ -1,5 +1,5 @@
-const ghibliify = require("./src/ghibliify");
+const ghiblify = require("./src/ghiblify");
 
-module.exports = { ghibliify };
+module.exports = { ghiblify };
 
-ghibliify("test.jpeg", "output.jpeg");
+ghiblify("test.jpeg", "output.jpeg");

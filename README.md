@@ -21,7 +21,16 @@ yarn add ghibli
 # 🚀 Usage
 
 ```js
-const { ghibliify } = require("ghibli");
+const { ghiblify } = require("ghibli");
 
-ghibliify("test.jpg", "output.jpg");
+ghiblify("input.jpg", "output.jpg");
 ```
+
+# 📖 API Reference: ghiblify Function
+
+| Function       | Description                                                                                     |
+|----------------|-------------------------------------------------------------------------------------------------|
+| `ghiblify`    | Applies a Studio Ghibli-style filter to an image, enhancing brightness, boosting colors, softening edges, and adding a painterly effect. |
+| **Parameters** |                                                                                                 |
+| `inputPath`    | Path to the input image file.                                                                   |
+| `outputPath`   | Path to save the output image file.                                                             |
