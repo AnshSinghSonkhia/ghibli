@@ -1,0 +1,37 @@
+{
+  "name": "ghibli",
+  "version": "1.0.0",
+  "description": "Transform your images with a stunning Studio Ghibli-style filter! ✨ ghibli enhances brightness, boosts vibrant colors, softens edges, and applies a dreamy painterly effect—bringing the magic of Ghibli films like Spirited Away and My Neighbor Totoro to your photos. Perfect for anime-style artwork, aesthetic edits, and nostalgic visuals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/ghibli.git"
+  },
+  "keywords": [
+    "ghibli",
+    "ghiblify",
+    "image-filter",
+    "studio-ghibli-art",
+    "ghibli-art",
+    "ghibli-style",
+    "photo-effect",
+    "anime-filter",
+    "studio-ghibli",
+    "art",
+    "design",
+    "image-processing",
+    "photo-enhancement"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/ghibli/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/ghibli#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
